@@ -1,0 +1,22 @@
+Nathanaels Paint Version 0.0.3 - Sep, 12, 2025
+
+Files are now split into mulitple class files
+added tools including pen, line, dotted line, rectangle
+added a color dropper
+new into in top right that contains width, tool, and color info
+can now zoom with scroll wheel
+ctrl s now saves
+
+
+
+knonw issues:
+Shrinking and regrowing the image can cause pixel lose
+
+Whats Next:
+crop tool,
+undo, 
+ability to add regular polygons of any shape
+more triangle options
+
+Links:
+No github yet
